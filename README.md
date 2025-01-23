@@ -1,5 +1,7 @@
 # firstpublicrepo
 
-Benim ilk repom.
+	Benim ilk repom.
 
 İkinci değişikliğimiz
+
+Üçüncü değişikliğimiz
