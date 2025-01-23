@@ -1,1 +1,3 @@
 # firstpublicrepo
+
+Benim ilk repom.
